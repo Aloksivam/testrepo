@@ -1,1 +1,1 @@
-print('hello ji , kaise ho')
+print('hello ji , kaise ho'*3)
